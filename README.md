@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/payalsahu2406/DSAleetcoddailypractice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/payalsahu2406/DSAleetcoddailypractice/tree/master/0169-majority-element) |
 | [0724-find-pivot-index](https://github.com/payalsahu2406/DSAleetcoddailypractice/tree/master/0724-find-pivot-index) |
+| [0733-flood-fill](https://github.com/payalsahu2406/DSAleetcoddailypractice/tree/master/0733-flood-fill) |
 | [1089-duplicate-zeros](https://github.com/payalsahu2406/DSAleetcoddailypractice/tree/master/1089-duplicate-zeros) |
 ## Two Pointers
 |  |
@@ -34,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/payalsahu2406/DSAleetcoddailypractice/tree/master/0724-find-pivot-index) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/payalsahu2406/DSAleetcoddailypractice/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/payalsahu2406/DSAleetcoddailypractice/tree/master/0733-flood-fill) |
+## Matrix
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/payalsahu2406/DSAleetcoddailypractice/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
