@@ -39,12 +39,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/payalsahu2406/DSAleetcoddailypractice/tree/master/0733-flood-fill) |
+| [3310-remove-methods-from-project](https://github.com/payalsahu2406/DSAleetcoddailypractice/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/payalsahu2406/DSAleetcoddailypractice/tree/master/0733-flood-fill) |
+| [3310-remove-methods-from-project](https://github.com/payalsahu2406/DSAleetcoddailypractice/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/payalsahu2406/DSAleetcoddailypractice/tree/master/0733-flood-fill) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/payalsahu2406/DSAleetcoddailypractice/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
