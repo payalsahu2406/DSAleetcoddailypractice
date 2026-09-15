@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/payalsahu2406/DSAleetcoddailypractice/tree/master/0066-plus-one) |
+| [0836-rectangle-overlap](https://github.com/payalsahu2406/DSAleetcoddailypractice/tree/master/0836-rectangle-overlap) |
 | [1510-stone-game-iv](https://github.com/payalsahu2406/DSAleetcoddailypractice/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/payalsahu2406/DSAleetcoddailypractice/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/payalsahu2406/DSAleetcoddailypractice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/payalsahu2406/DSAleetcoddailypractice/tree/master/0035-search-insert-position) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/payalsahu2406/DSAleetcoddailypractice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
